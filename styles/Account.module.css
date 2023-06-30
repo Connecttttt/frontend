@@ -1,0 +1,103 @@
+.accountContent {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.topBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0px;
+}
+
+.topBar h3 {
+  font-size: 40px;
+  color: #fff;
+  margin: 7px 0px;
+}
+
+.topBar p {
+  font-size: 18px;
+  color: #fff;
+}
+
+.accountDetails {
+  background-color: #fff;
+  padding: 70px 50px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  margin: 0px auto;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 40px;
+  margin-right: 50px;
+}
+
+.inputContainer p {
+  color: #000;
+  font-size: 18px;
+  margin-bottom: 18px;
+}
+
+.inputAndBtn {
+  display: flex;
+  align-items: center;
+}
+
+.inputAndBtn input {
+  background-color: #ebebebc7;
+  padding: 10px 18px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: #000;
+  margin-right: 10px;
+}
+
+.inputAndBtn button {
+  background-color: #424242;
+  padding: 10px 14px;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+.mint {
+  background-color: #526cff !important;
+}
+
+.bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.accountStats {
+  display: flex;
+  align-items: center;
+}
+
+.accountStat {
+  margin-right: 20px;
+  width: 100px;
+}
+
+.accountStat span {
+  font-size: 14px;
+}
+
+.accountStat p {
+  font-size: 30px;
+}
